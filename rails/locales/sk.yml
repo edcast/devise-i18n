@@ -40,8 +40,8 @@ sk:
       updated: "Úspešne ste aktualizovali váš účet."
     sessions:
       already_signed_out: "Úspešne odhlásený."
-      signed_in: "Úspešne prihlásený."
-      signed_out: "Úspešne odhlásený."
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: O niekoľko minút dostanete email s inštrukciami ako odomknúť váš účet.
       send_paranoid_instructions: Ak váš účet existuje, o niekoľko minút dostanete email s inštrukciami ako ho odomknúť.

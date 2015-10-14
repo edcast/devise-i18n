@@ -40,8 +40,8 @@ is:
       updated: Aðgangurinn þinn hefur verið uppfærður.
     sessions:
       already_signed_out: 
-      signed_in: Innskráning tókst.
-      signed_out: "Útskráning tókst."
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Innan nokkurra mínútna færðu tölvupóst með leiðbeiningum um hvernig hægt er að aflæsa aðgangi þínum.
       send_paranoid_instructions: Ef aðgangurinn þinn er til munt þú fá leiðbeiningar um hvernig hægt er að aflæsa honum sendar í tölvupósti innan nokkurra mínútna.

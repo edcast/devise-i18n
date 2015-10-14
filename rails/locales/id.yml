@@ -40,8 +40,8 @@ id:
       updated: Akun anda telah berhasil diperbaharui.
     sessions:
       already_signed_out: 
-      signed_in: Proses sign in berhasil.
-      signed_out: Proses sign out berhasil.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Anda akan menerima e-mail berisi instruksi untuk membuka kembali akun anda dalam beberapa menit lagi.
       send_paranoid_instructions: Jika akun Anda tercatan, Anda akan menerima email dengan instruksi bagaimana membuka kunci email Anda dalam beberapa menit.

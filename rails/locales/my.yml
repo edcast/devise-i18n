@@ -40,8 +40,8 @@ my:
       updated: Akaun anda telah dikemaskini
     sessions:
       already_signed_out: 
-      signed_in: Proses sign in berjaya.
-      signed_out: Proses sign out berjaya.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Anda akan menerima e-mail mengenai langkah membuka akaun kembali sebentar lagi.
       send_paranoid_instructions: 

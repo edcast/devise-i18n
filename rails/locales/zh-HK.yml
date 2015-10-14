@@ -40,8 +40,8 @@ zh-HK:
       updated: "更新咗帳戶。"
     sessions:
       already_signed_out: "登出成功。"
-      signed_in: "登入咗。"
-      signed_out: "登出咗。"
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: "幾分鐘之後，你會收到一封電郵，入面有帳戶解鎖嘅步驟。"
       send_paranoid_instructions: "如果我哋既紀錄入面有呢個帳戶的話，幾分鐘之後，你會收到一封電郵，入面有帳戶解鎖嘅步驟。"

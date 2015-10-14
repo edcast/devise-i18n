@@ -40,8 +40,8 @@ fr:
       updated: Votre compte a été modifié avec succès.
     sessions:
       already_signed_out: Déconnecté(e).
-      signed_in: Connecté(e) avec succès.
-      signed_out: Déconnecté(e) avec succès.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Vous allez recevoir sous quelques minutes un courriel comportant des instructions pour déverrouiller votre compte.
       send_paranoid_instructions: Si votre courriel existe sur notre base de données, vous recevrez sous quelques minutes un message avec des instructions pour déverrouiller votre compte.

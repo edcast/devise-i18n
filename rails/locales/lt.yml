@@ -40,8 +40,8 @@ lt:
       updated: Jūsų duomenys sėkmingai atnaujinti.
     sessions:
       already_signed_out: Jau esate atsijungę.
-      signed_in: Jūs prisijungėte.
-      signed_out: Sėkmingai atsijungėte iš savo paskyros.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Netrukus sulauksite el. laiško su instrukcijomis, kaip atblokuoti paskyrą.
       send_paranoid_instructions: Jei registracijai naudojote šį e-pašto adresą, netrukus sulauksite el. laiško su instrukcijomis, kaip atblokuoti paskyrą.

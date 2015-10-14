@@ -40,8 +40,8 @@ az:
       updated: Hesabınızı uğurla yenilədiniz.
     sessions:
       already_signed_out: Ugurlu cıxış.
-      signed_in: Sistemə uğurla daxil oldunuz.
-      signed_out: Sistemdən uğurla çıxdınız.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Bir neçə dəqiqə ərzində hesabınızı blokdan çıxarmaq üçün sizə email göndəriləcəkdir.
       send_paranoid_instructions: "Əgər bazada belə hesab varsa, bir neçə dəqiqə ərzində hesabınızı blokdan çıxarmaq üçün sizə email göndəriləcəkdir."

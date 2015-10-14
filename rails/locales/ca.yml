@@ -40,8 +40,8 @@ ca:
       updated: Has actualitzat el teu compte correctament.
     sessions:
       already_signed_out: Desconnectat satisfactoriament.
-      signed_in: Sessió iniciada correctament.
-      signed_out: Sessió tancada correctament.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: En breu rebràs un correu electrònic amb instruccions sobre com desbloquejar el teu compte.
       send_paranoid_instructions: Si el teu compte existeix, rebràs un correu electrònic amb instruccions sobre com desbloquejar-lo.

@@ -40,8 +40,8 @@ ar:
       updated: "تمّ تعديل الحساب بنجاح."
     sessions:
       already_signed_out: 
-      signed_in: "تمّ تسجيل الدخول."
-      signed_out: "تمّ تسجيل الخروج."
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: "خلال بضعة دقائق، سوف تصل رسالة بالتعليمات اللازمة لإعادة تفعيل الحساب."
       send_paranoid_instructions: "إذا كان الحساب موجوداً، ستصل رسالة خلال دقائق تتضمّن الارشادات عن كيفيّة التفعيل.  "

@@ -1,4 +1,4 @@
-pt-br:
+pt:
   devise:
     confirmations:
       confirmed: A sua conta foi confirmada com sucesso.
@@ -40,8 +40,8 @@ pt-br:
       updated: A sua conta foi actualizada com sucesso.
     sessions:
       already_signed_out: Sessão terminada com sucesso.
-      signed_in: Autenticação efectuada com sucesso.
-      signed_out: Saiu da sessão com sucesso.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Dentro de alguns minutos irá receber um email com as instruções para desbloquear a sua conta.
       send_paranoid_instructions: Se a sua conta existir, irá receber dentro de alguns minutos um email com instruções para a desbloquear.

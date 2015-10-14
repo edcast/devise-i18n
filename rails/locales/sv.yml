@@ -40,8 +40,8 @@ sv:
       updated: Ditt konto har uppdaterats.
     sessions:
       already_signed_out: Du är nu utloggad.
-      signed_in: Loggade in.
-      signed_out: Loggade ut.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Du kommer få epost med instruktioner om hur du kan låsa upp ditt konto inom några minuter.
       send_paranoid_instructions: Om ditt konto finns, kommer du att få ett email med instruktioner om hur du låser upp det inom några minuter.

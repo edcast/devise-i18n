@@ -40,8 +40,8 @@ es-MX:
       updated: Tu cuenta fue actualizada.
     sessions:
       already_signed_out: Se ha cerrado la sesión con éxito.
-      signed_in: Sesión iniciada.
-      signed_out: Sesión finalizada.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Vas a recibir instrucciones para desbloquear tu cuenta en unos pocos minutos.
       send_paranoid_instructions: Si tu cuenta existe, vas a recibir instrucciones para desbloquear tu cuenta en unos pocos minutos.

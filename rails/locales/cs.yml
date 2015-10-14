@@ -40,8 +40,8 @@ cs:
       updated: Váš účet byl úspěšně aktualizován.
     sessions:
       already_signed_out: "Úspěšně odhlášen"
-      signed_in: Přihlášení úspěšné.
-      signed_out: Odhlášení úspěšné.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Za několik minut obdržíte email s instrukcemi, jak odemknout svůj účet.
       send_paranoid_instructions: Pokud váš e-mail existuje v naší databázi, za několik minut obdržíte e-mail s instrukcemi pro odemknutí účtu.

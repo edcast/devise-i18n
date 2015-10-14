@@ -40,8 +40,8 @@ nb:
       updated: Din profil er oppdatert.
     sessions:
       already_signed_out: Logget ut.
-      signed_in: Du er nå innlogget.
-      signed_out: Du er nå logget ut.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Du vil snart motta en epost med instruksjon for å gjenåpne din konto.
       send_paranoid_instructions: Hvis kontoen eksisterer, vil du om få minutter motta en e-post med instruksjoner om hvordan du låser opp den.

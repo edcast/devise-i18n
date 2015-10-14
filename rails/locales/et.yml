@@ -40,8 +40,8 @@ et:
       updated: Sa uuendasid edukalt oma kontot.
     sessions:
       already_signed_out: Edukalt välja logitud.
-      signed_in: Edukalt sisse logitud.
-      signed_out: Edukalt välja logitud.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Sa saad mõne minuti jooksul e-kirja juhistega, kuidas oma konto lukust vabastada.
       send_paranoid_instructions: Kui su konto eksisteerib, saad sa mõne minuti jooksul e-kirja juhistega, kuidas oma konto lukust vabastada.

@@ -40,8 +40,8 @@ sr:
       updated: Uspešno ste izmenili svoj nalog.
     sessions:
       already_signed_out: 
-      signed_in: Uspešno ste se prijavili.
-      signed_out: Uspešno ste se odjavili.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: U roku od nekoliko minuta ćete primiti ePoruku sa uputstvom za otključavanje Vašeg naloga.
       send_paranoid_instructions: Ako Vaš nalog postoji, na adresu svoje ePošte ćete u roku od nekoliko minuta primiti uputstvo kako ga otključati.

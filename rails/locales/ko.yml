@@ -40,8 +40,8 @@ ko:
       updated: "계정이 성공적으로 수정되었습니다."
     sessions:
       already_signed_out: "성공적으로 로그아웃했습니다."
-      signed_in: "성공적으로 로그인했습니다."
-      signed_out: "성공적으로 로그아웃했습니다."
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: "잠시 후 이메일로 계정 잠금 해제 지침을 받아보실 수 있습니다."
       send_paranoid_instructions: "계정이 존재한다면, 잠시 후 이메일로 계정 잠금 해제 지침을 받아보실 수 있습니다."

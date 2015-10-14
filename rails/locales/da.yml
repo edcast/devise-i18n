@@ -40,8 +40,8 @@ da:
       updated: Din profil er opdateret.
     sessions:
       already_signed_out: 
-      signed_in: Du er nu logget ind.
-      signed_out: Du er nu logget ud.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Om få minutter vil du modtage en e-mail med instruktioner om genåbning af din konto.
       send_paranoid_instructions: Hvis din e-mail-adresse findes i vores database vil du modtage in e-mail med instutioner om hvordan du kan låse din konto op.

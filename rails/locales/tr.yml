@@ -40,8 +40,8 @@ tr:
       updated: Hesabınız başarıyla güncellendi.
     sessions:
       already_signed_out: Başarıyla çıkış yapıldı.
-      signed_in: Başarıyla giriş yapıldı.
-      signed_out: Başarıyla çıkış yapıldı.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Birkaç dakika içerisinde hesap kilidi açma talimatlarını içeren bir e-posta alacaksınız.
       send_paranoid_instructions: Eğer hesabınız varsa, birkaç dakika içerisinde hesap kilidi açma talimatlarını içeren bir e-posta alacaksınız.

@@ -40,8 +40,8 @@ bs:
       updated: Uspješno ste izmjenili Vaš račun.
     sessions:
       already_signed_out: 
-      signed_in: Uspješno ste se prijavili.
-      signed_out: Uspješno ste se odjavili.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: U roku nekoliko minuta ćete primiti e-mail s uputama za otključavanje Vašeg računa.
       send_paranoid_instructions: Ako Vaš račun postoji, na e-mail ćete u roku nekoliko minuta primiti upute kako ga otključati.

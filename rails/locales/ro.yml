@@ -40,8 +40,8 @@ ro:
       updated: Aţi actualizat contul dvs. cu succes.
     sessions:
       already_signed_out: Deautentificarea s-a efectuat cu success.
-      signed_in: Autentificat cu succes.
-      signed_out: Ieșire cu success.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Veţi primi un e-mail cu instrucţiuni despre cum să deblocați contul dvs. în câteva minute.
       send_paranoid_instructions: "În cazul în care contul dvs. există, veţi primi un e-mail cu instrucţiuni despre cum să-l deblocați în câteva minute."

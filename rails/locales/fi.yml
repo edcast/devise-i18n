@@ -40,8 +40,8 @@ fi:
       updated: Tunnuksesi on päivitetty.
     sessions:
       already_signed_out: 
-      signed_in: Sisäänkirjautuminen onnistui.
-      signed_out: Uloskirjautuminen onnistui.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Saat hetken kuluttua sähköpostiisi ohjeet tunnuksesi lukituksen poistoon.
       send_paranoid_instructions: Jos tilisi on olemassa, muutaman minuutin kuluttua sähköpostiisi on lähetetty ohjeet kuinka poistaa lukitus.

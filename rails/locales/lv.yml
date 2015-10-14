@@ -40,8 +40,8 @@ lv:
       updated: Jūsu labotās izmaiņas ir veiksmīgi saglabātas.
     sessions:
       already_signed_out: 
-      signed_in: Veiksmīgi pieslēdzies.
-      signed_out: Veiksmīgi atslēdzies.
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: Pāris minūšu laikā uz Jūsu epastu tiks nosūtīts apraksts, kā atbloķēt Jūsu lietotāju.
       send_paranoid_instructions: Ja Jūsu parole eksistē mūsu datubāzē, tad pāris minūšu laikā uz Jūsu epastu tiks nosūtīts apraksts, kā atbloķēt jūsu lietotāju.

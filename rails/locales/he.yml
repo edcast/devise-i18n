@@ -40,8 +40,8 @@ he:
       updated: "עדכנת בהצלחה את חשבונך."
     sessions:
       already_signed_out: "התנתקות מוצלחת"
-      signed_in: "התחברת בהצלחה"
-      signed_out: "התנתקת בהצלחה."
+      signed_in: ""
+      signed_out: ""
     unlocks:
       send_instructions: "בדקות הקרובות יישלח אליך אימייל עם הנחיות כיצד להסיר את הנעילה מחשבונך."
       send_paranoid_instructions: "אם חשבונך קיים, את/ה תקבל/י אימייל עם הוראות כיצד להפעיל מחדש את חשבונך."
