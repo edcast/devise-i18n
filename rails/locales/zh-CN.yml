@@ -1,4 +1,4 @@
-zh-CN:
+zh-cn:
   devise:
     confirmations:
       confirmed: "恭喜您，注册成功，现在可以登录了"
