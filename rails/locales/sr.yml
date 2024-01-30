@@ -115,6 +115,7 @@ sr:
       updated_but_not_signed_in: 
     sessions:
       already_signed_out: 
+<<<<<<< HEAD
       new:
         sign_in: Prijavi se
       signed_in: Uspešno ste se prijavili.
@@ -129,6 +130,10 @@ sr:
         sign_in_with_provider: 
         sign_up: 
       minimum_password_length: 
+=======
+      signed_in: ""
+      signed_out: ""
+>>>>>>> abd4656 (CMA-9849 Removed sign-in/out related msgs)
     unlocks:
       new:
         resend_unlock_instructions: 

@@ -114,6 +114,7 @@ ru:
       updated: Ваша учетная запись изменена.
       updated_but_not_signed_in: Ваш аккаунт успешно обновлен, но так как пароль был изменен, необходимо выполнить вход еще раз
     sessions:
+<<<<<<< HEAD
       already_signed_out: Выход из системы уже выполнен.
       new:
         sign_in: Войти
@@ -133,6 +134,11 @@ ru:
         many: "(минимум %{count} знаков)"
         one: "(минимум %{count} знак)"
         other: "(минимум %{count} знаков)"
+=======
+      already_signed_out: "Выход из системы уже выполнен."
+      signed_in: ""
+      signed_out: ""
+>>>>>>> abd4656 (CMA-9849 Removed sign-in/out related msgs)
     unlocks:
       new:
         resend_unlock_instructions: Выслать подтверждение заново

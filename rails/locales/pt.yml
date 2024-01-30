@@ -113,6 +113,7 @@ pt:
       updated_but_not_signed_in: 
     sessions:
       already_signed_out: Sessão terminada com sucesso.
+<<<<<<< HEAD
       new:
         sign_in: Entrar
       signed_in: Autenticação efetuada com sucesso.
@@ -129,6 +130,10 @@ pt:
       minimum_password_length:
         one: "(mínimo de %{count} carácter)"
         other: "(mínimo de %{count} caracteres)"
+=======
+      signed_in: ""
+      signed_out: ""
+>>>>>>> abd4656 (CMA-9849 Removed sign-in/out related msgs)
     unlocks:
       new:
         resend_unlock_instructions: Reenviar instruções de desbloqueio

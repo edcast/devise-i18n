@@ -114,6 +114,7 @@ pl:
       updated_but_not_signed_in: Twoje konto zostało pomyślnie zaktualizowane, ale ponieważ hasło zostało zmienione, musisz się ponownie zalogować
     sessions:
       already_signed_out: Wylogowano pomyślnie.
+<<<<<<< HEAD
       new:
         sign_in: Zaloguj się
       signed_in: Zalogowano pomyślnie.
@@ -132,6 +133,10 @@ pl:
         many: "(minimum %{count} znaków)"
         one: "(minimum %{count} znak)"
         other: "(minimum %{count} znaku)"
+=======
+      signed_in: ""
+      signed_out: ""
+>>>>>>> abd4656 (CMA-9849 Removed sign-in/out related msgs)
     unlocks:
       new:
         resend_unlock_instructions: Wyślij instrukcje odblokowania konta
